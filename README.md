@@ -58,7 +58,7 @@ This project follows a **microservice architecture** and is divided into several
 
 ## Frontend
 
-The front-end part of the project, located in the [FrontEndLibraryProject](https://github.com/Rayan1605/FrontEndLibraryProject), is built with **React**. It connects to the backend services for various functions like user login, book management, and borrowing books.
+The front-end part of the project, located in the [here](https://github.com/Rayan1605/FrontEndLibraryProject), is built with **React**. It connects to the backend services for various functions like user login, book management, and borrowing books.
 
 - **React**: Used for building the user interface.
 - **API Integration**: Frontend interacts with backend services using **Axios** to make API requests.
