@@ -72,6 +72,7 @@ The front-end part of the project, located in the [here](https://github.com/Raya
 - **Spring Boot**: Backend framework used for building microservices.
 - **Spring Security**: For managing authentication and user roles.
 - **Spring Data JPA**: For interacting with the MySQL database.
+- **OpenFeign**: For communicating between different microservices.
 - **JWT**: Used for token-based authentication.
 - **Docker**: For containerization of microservices.
 - **React**: For building the front-end user interface.
